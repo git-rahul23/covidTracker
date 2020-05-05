@@ -1,0 +1,113 @@
+.maintext {
+    top: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.leftHome {
+    width: 50%;
+    padding-right: 60px;
+
+}
+
+.rightHome {
+    padding-top: 80px;
+    width: 50%;
+    text-align: center;
+    
+}
+
+.head-1 {
+    font-family: 'Roboto Mono', monospace;
+    color: #278BAF;
+}
+.head-1-text {
+    font-family: 'Open Sans Condensed', sans-serif;
+    word-spacing: 5px;
+    font-size: 22px;
+    text-align: justify;
+    text-justify: inter-word;
+    font-weight: 500;
+}
+.guidelines {
+    padding-top: 10px;
+}
+.guideBlock-1 {
+    width: 70%;
+    display: flex;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+}
+.guideBlock {
+    width: 70%;
+    display: flex;
+    padding-left: 20px;
+    margin-bottom: 10px;
+
+}
+.logo-guide {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    
+}
+.guideLogo {
+    flex: 0.5;
+    text-align: center;
+    padding-top: 5px;
+}
+.guideText {
+    font-family: 'Open Sans Condensed', sans-serif;
+    word-spacing: 3px;
+    font-size: 20px;
+    text-align: center;
+    text-justify: inter-word;
+    font-weight: 500;
+    padding-top: 10px;
+    flex: 0.5;
+}
+
+.rightText {
+    font-family: 'Open Sans Condensed', sans-serif;
+    word-spacing: 3px;
+    font-size: 19px;
+}
+.scanLogo {
+    width: 200px;
+    height: 200px;
+    margin-top: 40px;
+}
+.downLoadOp {
+    display:  flex;
+    flex-direction: column;
+}
+.oplogoWrapper {
+    padding-top: 30px;
+}
+
+.optionLogo {
+    width: 150px;
+    height: 40px;
+    border-radius: 8px;
+    margin-bottom: 3px;
+}
+
+@media  (max-width: 600px) {
+   
+    .maintext {
+        flex-direction: column;
+    }
+    
+    .leftHome {
+        width: 100%;
+        padding-right: 10px;
+    
+    }
+    
+    .rightHome {
+        padding-top: 50px;
+        width: 100%;
+    }
+  }
