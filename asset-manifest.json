@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/covidTracker/static/css/main.8780b46e.chunk.css",
+    "main.js": "/covidTracker/static/js/main.73efc8eb.chunk.js",
+    "main.js.map": "/covidTracker/static/js/main.73efc8eb.chunk.js.map",
+    "runtime-main.js": "/covidTracker/static/js/runtime-main.e0a5b9b7.js",
+    "runtime-main.js.map": "/covidTracker/static/js/runtime-main.e0a5b9b7.js.map",
+    "static/js/2.bf1503f4.chunk.js": "/covidTracker/static/js/2.bf1503f4.chunk.js",
+    "static/js/2.bf1503f4.chunk.js.map": "/covidTracker/static/js/2.bf1503f4.chunk.js.map",
+    "index.html": "/covidTracker/index.html",
+    "precache-manifest.d412fd7e3665509e4d2d282ebc09cf24.js": "/covidTracker/precache-manifest.d412fd7e3665509e4d2d282ebc09cf24.js",
+    "service-worker.js": "/covidTracker/service-worker.js",
+    "static/css/main.8780b46e.chunk.css.map": "/covidTracker/static/css/main.8780b46e.chunk.css.map",
+    "static/js/2.bf1503f4.chunk.js.LICENSE.txt": "/covidTracker/static/js/2.bf1503f4.chunk.js.LICENSE.txt",
+    "static/media/applestore.PNG": "/covidTracker/static/media/applestore.73ae3a10.PNG",
+    "static/media/cover.png": "/covidTracker/static/media/cover.da30159d.png",
+    "static/media/covidLogo.png": "/covidTracker/static/media/covidLogo.ddcfe167.png",
+    "static/media/googleplay.PNG": "/covidTracker/static/media/googleplay.de0e664d.PNG",
+    "static/media/keepDist.png": "/covidTracker/static/media/keepDist.86af3e90.png",
+    "static/media/scan.PNG": "/covidTracker/static/media/scan.6cecc8a7.PNG",
+    "static/media/stayHome.png": "/covidTracker/static/media/stayHome.5bffb54c.png",
+    "static/media/washHands.png": "/covidTracker/static/media/washHands.c9b88e14.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0a5b9b7.js",
+    "static/js/2.bf1503f4.chunk.js",
+    "static/css/main.8780b46e.chunk.css",
+    "static/js/main.73efc8eb.chunk.js"
+  ]
+}
